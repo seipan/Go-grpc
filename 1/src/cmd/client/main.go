@@ -111,7 +111,6 @@ func HelloServerStream() {
 		if err != nil {
 			fmt.Println(err)
 		}
-
 		fmt.Println(res)
 	}
 
